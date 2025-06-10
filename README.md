@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @NitikaDevgan
-- 👀 My hobbies is to listen music.
-- 🌱 I’m currently pursuing MCA course from Banarisdas Chandiwala Institute of Information technology and have completed my graduation from Delhi University in the course Bsc Computer Science(Hns).
-- 💞️ I’m looking to do some amazing internships programs so that I can build my knowledge and to build my confidence.
-- 📫 How to reach me : You can reach me through my linkedln profile www.linkedin.com/in/nitika-devgan-22a851213 or through this account only i.e. github.
+👋 Hi, I’m @NitikaDevgan
+
+👀 My hobbies include listening to music, and playing badminton and chess.
+
+🌱 I recently completed my MCA at Banarsidas Chandiwala Institute of Information Technology and my BSc in Computer Science (Hons) from Delhi University.
+
+💻 I’m currently working as a Frontend Developer at GNA Energy Private Ltd., where I focus on creating engaging user interfaces and scalable web applications.
+
+🚀 I’m always open to exciting opportunities to grow and collaborate with innovative teams.
+
+📫 You can reach me via my [LinkedIn profile](https://www.linkedin.com/in/nitika-devgan-22a851213/) or here on GitHub.
 
 <!---
 NitikaDevgan/NitikaDevgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
