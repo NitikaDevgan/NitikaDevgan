@@ -9,6 +9,7 @@
 🚀 I’m always open to exciting opportunities to grow and collaborate with innovative teams.
 
 📫 You can reach me via my [LinkedIn profile](https://www.linkedin.com/in/nitika-devgan-22a851213/) or here on GitHub.
+..
 
 <!---
 NitikaDevgan/NitikaDevgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
