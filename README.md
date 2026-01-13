@@ -2,7 +2,7 @@
 
 👀 My hobbies include listening to music, and playing badminton and chess.
 
-🌱 I recently completed my MCA at Banarsidas Chandiwala Institute of Information Technology and my BSc in Computer Science (Hons) from Delhi University.
+🌱 I completed my MCA at Banarsidas Chandiwala Institute of Information Technology and my BSc in Computer Science (Hons) from Delhi University.
 
 💻 I’m currently working as a Frontend Developer at GNA Energy Private Ltd., where I focus on creating engaging user interfaces and scalable web applications.
 
